@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618445603 source:/home/mafin/C++/lab5_Gladkyi_Sergey/data.cpp
+	"header.h"
+
+1618445603 /home/mafin/C++/lab5_Gladkyi_Sergey/header.h
+	<iostream>
+	<iomanip>
+
+1618445603 source:/home/mafin/C++/lab5_Gladkyi_Sergey/main.cpp
+	<iostream>
+	<locale>
+	"header.h"
+
