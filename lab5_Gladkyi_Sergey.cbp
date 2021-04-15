@@ -32,6 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="data.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="header.h">
+			<Option target="Debug" />
+		</Unit>
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
